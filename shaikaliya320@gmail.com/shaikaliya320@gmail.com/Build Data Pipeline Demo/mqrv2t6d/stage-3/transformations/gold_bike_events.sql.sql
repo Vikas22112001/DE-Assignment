@@ -1,0 +1,2 @@
+-- Databricks notebook source
+-- Add your gold aggregation query here.

@@ -1,0 +1,3 @@
+-- Databricks notebook source
+-- Add your silver transformation query here.
+-- Silver: clean types, derive revenue, and drop impossible ride durations.
